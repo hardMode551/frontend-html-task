@@ -4,7 +4,7 @@
 
 Стек технологий при разработке:
 - Front: React + typeScript
-- Styles: json-server
+- Styles: styled-components
 
 Ссылка на демо-версию: https://todo-list-app-theta-swart.vercel.app/
 
