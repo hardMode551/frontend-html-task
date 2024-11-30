@@ -6,7 +6,7 @@
 - Front: React + typeScript
 - Styles: styled-components
 
-Ссылка на демо-версию: https://todo-list-app-theta-swart.vercel.app/
+Ссылка на демо-версию: https://frontend-html-task-zeta.vercel.app/
 
 ## Инструкция по клонированию репозитория
 
